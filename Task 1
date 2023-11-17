@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Aditya-Portfolio</title>
+    </head>
+    <body>
+        <h1>Aditya Biradar</h1>
+        <div>
+            <h2>About Me</h2>
+            <p>Hello, I'm Aditya Biradar Pursuing Bachler's degree in Electronics & Telecommunication Engineering.
+                I completed my 12th from Shri Havagiswami Junior College, Udgir.
+                Problem solving skills and passion for learning new things helps me to do my work with effortlessly.
+            </p>
+        </div>
+
+        <h3>Skills</h3>
+        <ul>
+            <li>Python Basics</li>
+            <li>Web development</li>
+            <li>oop concepts of c++</li>
+        </ul>
+        <h3>Intrests</h3>
+        <ul>
+            <li>Want to travel across World.</li>
+            <li>Playing videogames.</li>
+            <li>Adventure</li>
+        </ul>
+
+        <section>
+            <h3>Project title: Library Management System Mini Project</h3>
+            <p>The Library Management System mini project is a solution designed to streamline the day-to-day operations of a library.
+                <dl>
+                    <dt>Book Cataloging:</dt>
+                    <dd>
+                        <ul>
+                            <li>Efficient cataloging of books with details such as title, author, genre, and ISBN.</li>
+                            <li>Quick and easy addition of new books to the library inventory.</li>
+                        </ul>
+                    </dd>
+                    <dt>Member Management:</dt>
+                    <dd>
+                        <ul>
+                            <li>User-friendly member registration and management system.</li>
+                            <li>Tracking of member details, including names, contact information, and borrowing history.</li>
+                        </ul>
+                    </dd>
+                    <dt>Check-In/Check-Out:</dt>
+                    <dd>
+                        <ul>
+                            <li>Smooth handling of book check-in and check-out processes.</li>
+                            <li>Automated updates to the book status and member accounts.</li>
+                        </ul>
+                    </dd>
+                    <dt>Search and Retrieval:</dt>
+                    <dd>
+                        <ul>
+                            <li>Robust search functionality for books based on various parameters.</li>
+                            <li>Quick retrieval of book availability status and location within the library.</li>
+                        </ul>
+                    </dd>
+                    <dt>User Authentication:</dt>
+                    <dd>
+                        <ul>
+                            <li>Secure login system for librarians and administrators.</li>
+                            <li>Role-based access control to ensure data integrity and privacy.</li>
+                        </ul>
+                    </dd>
+                </dl>
+            </p>
+        </section>
+        <section>
+            <a href="https://mail.google.com/mail/u/0/#inbox">Gmail</a>
+            <a href="www.linkedin.com/in/aditya-biradar-a9a0ba253">Linkedin</a>
+            <a href="https://github.com/AdityaBiradar0404">Github</a>
+        </section>
+    </body>
+</html>
